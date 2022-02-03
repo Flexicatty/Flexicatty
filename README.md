@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Felix
 - 👀 I’m interested in Computing, Programming and Photo/Videography
 - 🌱 I’m currently learning C#, HTML and CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to work on anything that can boost my programming skills
 - 📫 How to reach me: Just drop me an email: flexicatty@gmail.com
 
 <!---
